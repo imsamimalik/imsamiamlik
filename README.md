@@ -57,10 +57,8 @@ Here is my portfolio website:
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
 
 ## Stats
-<spam style="display:flex;flex-wrap:wrap;">
 ![Sami's github stats](https://github-readme-stats.vercel.app/api?username=imsamimalik&show_icons=true&hide_border=true)
-<span align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsamimalik&layout=compact" alt="sami-malik" /></span>
-</spam>
+<span align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsamimalik&layout=compact" alt="sami-malik" /></span>
 
 ## Web Performance Stats
 
