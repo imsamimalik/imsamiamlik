@@ -79,3 +79,7 @@ Here is my portfolio website:
 
 ![Sami's github stats](https://github-readme-stats.vercel.app/api?username=imsamimalik&show_icons=true&hide_border=true)
 <span align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsamimalik&layout=compact" alt="sami-malik" /></span>
+
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=imsamimalik.imsamimalik)
