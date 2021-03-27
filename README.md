@@ -22,8 +22,6 @@ Here is my portfolio website:
 
 ### [imsamimalik](imsamimalik.web.app)
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  
   # :man_technologist: Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -65,8 +63,8 @@ Here is my portfolio website:
 
 ## Web Performance Stats
 
-<p align="center" width:"300px">	<!-- (optional) center align -->
-
+<p align="center">	<!-- (optional) center align -->
+    <img src="./stats.svg" width="XXXpx">
 </p>
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
