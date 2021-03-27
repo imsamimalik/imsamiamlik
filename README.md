@@ -58,7 +58,7 @@ Here is my portfolio website:
 
 ## Stats
 ![Sami's github stats](https://github-readme-stats.vercel.app/api?username=imsamimalik&show_icons=true&hide_border=true)
-<span ><img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsamimalik&layout=compact" alt="sami-malik" /></span>
+<span ><img align="right" style="width: 365px;transform: translateY(-13px);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsamimalik&layout=compact" alt="sami-malik" /></span>
 
 ## Web Performance Stats
 
