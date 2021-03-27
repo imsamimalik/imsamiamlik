@@ -64,7 +64,7 @@ Here is my portfolio website:
 ## Web Performance Stats
 
 <p align="center">	<!-- (optional) center align -->
-    <img src="./stats.svg" width="XXXpx">
+    <img src="./stats.svg" width="300px">
 </p>
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
