@@ -1,5 +1,7 @@
 # imsamiamlik
-## Hey 👋
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+<h3>Glad to see you here!</h3>  
 
 <a href="https://www.linkedin.com/in/imsamimalik" >
   <img align="left" alt="Sami's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -71,4 +73,6 @@ Here is my portfolio website:
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](http://profile-counter.glitch.me/imsamimalik/count.svg)
+<p align="center">   
+  <img src="https://profile-counter.glitch.me/imsamimalik/count.svg" />  
+</p>
