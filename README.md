@@ -1,5 +1,5 @@
 # imsamiamlik
-## Hey 👋, I'm Sami
+## Hey 👋
 
 <a href="https://www.linkedin.com/in/imsamimalik" >
   <img align="left" alt="Sami's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -71,4 +71,4 @@ Here is my portfolio website:
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=imsamimalik.imsamimalik)
+![visitors](http://profile-counter.glitch.me/imsamimalik/count.svg)
