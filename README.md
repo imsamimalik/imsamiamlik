@@ -22,7 +22,7 @@ Hi there, I'm <b>Sami Malik</b>, 18 year old Self Taught Full Stack Developer <b
 <br />
 Here is my portfolio website:
 
-### [imsamimalik](imsamimalik.web.app)
+### [imsamimalik](https://imsamimalik.com/)
 
   # :man_technologist: Technologies
 
