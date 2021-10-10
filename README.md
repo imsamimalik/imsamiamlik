@@ -65,6 +65,8 @@ Here is my portfolio website:
 <img width="430px" src="https://github-readme-stats.vercel.app/api?username=imsamimalik&show_icons=true&hide_border=true" alt="Sami's github stats" />
 <img align="right" style="width: 365px;transform: translateY(-13px);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsamimalik&layout=compact" alt="sami-malik" /></span>
 
+![Gihub stas](https://activity-graph.herokuapp.com/graph?username=imsamimalik&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
+
 ## Web Performance Stats
 
 <p align="center">
