@@ -1,4 +1,6 @@
-# imsamiamlik
+
+<img align="center" width="900" height="50" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23FFC107&size=35&center=true&vCenter=true&lines=imsamimalik" />
+
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <h3>Glad to see you here!</h3>  
@@ -22,7 +24,26 @@ Hi there, I'm <b>Sami Malik</b>, 19 year old Self Taught Full Stack Developer an
 <br />
 Here is my portfolio website:
 
-### [imsamimalik](https://imsamimalik.com/)
+<h3>
+    I am an aspiring Web Developer and UI/UX Designer
+</h3>
+
+- 🌱 I’m currently learning MERN Stack, Mobile development
+- 👯 I’m looking to collaborate on any Web Devlopment or Frontend Project
+- 📫 Mail me at imsamimalikk@gmail.com
+- 🙆‍♂️ Check out my [Portfolio](https://imsamimalik.com/)
+- ⚡ Fun fact: I'm livin' in metaverse!
+
+<h3>How to reach me?!</h3>
+
+- Feel free to reach me out on any platforms listed [here!](https://dev.page/imsamimalik)
+
+<h3>
+    📕 Blogs and Articles
+</h3>
+
+- Check out my blogs on [Hashnode](https://imsamimalik.me/)
+
 
   # :man_technologist: Technologies
 
