@@ -45,7 +45,10 @@ Here is my portfolio website:
 - Check out my blogs on [Hashnode](https://imsamimalik.me/)
 
 
-  # :man_technologist: Technologies
+\
+&nbsp;
+
+# :man_technologist: Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
