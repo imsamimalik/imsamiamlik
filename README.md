@@ -191,7 +191,7 @@ Here is my portfolio website:
       <a href="#imsamimalik-tech">
         <img src="https://images.ctfassets.net/qcrphhesuv4n/6cZj9wicrfq7gQwyYy7RcI/9ec870532475e09f72bb1c7143a4564b/1_p1TndLk3UsGPBsM7qHPZIw.png?w=294&h=175&q=50&fm=png" width="48" height="48" alt="StyledComponents" />
       </a>
-      <br>StyledComponents
+      <br>Styled Components
     </td>
     <td align="center" width="96">
       <a href="#suhailakar-tech">
