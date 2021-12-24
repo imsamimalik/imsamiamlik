@@ -6,16 +6,16 @@
 <h3>Glad to see you here!</h3>  
 
 <a href="https://www.linkedin.com/in/imsamimalik" >
-  <img align="left" alt="Sami's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sami's LinkdeIn" width="22px" src="https://www.iconsdb.com/icons/preview/color/FFC107/linkedin-3-xxl.png" />
 </a>
 <a href="https://twitter.com/imsamimalik">
-  <img align="left" alt="Sami's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/twitter.svg" />
+  <img align="left" alt="Sami's Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/color/FFC107/twitter-3-xxl.png" />
 </a>
 <a href="https://www.instagram.com/imsamimalik/">
-  <img align="left" alt="Sami's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sami's Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/color/FFC107/instagram-xxl.png" />
 </a>
 <a href="https://www.facebook.com/imsamimalik">
-  <img align="left" alt="Sami's FB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Sami's FB" width="22px" src="https://www.iconsdb.com/icons/preview/color/FFC107/facebook-3-xxl.png" />
 </a>
 
 <br />
