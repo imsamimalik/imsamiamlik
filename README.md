@@ -32,7 +32,7 @@ Here is my portfolio website:
 - 👯 I’m looking to collaborate on any Web Devlopment or Frontend Project
 - 📫 Mail me at imsamimalikk@gmail.com
 - 🙆‍♂️ Check out my [Portfolio](https://imsamimalik.com/)
-- ⚡ Fun fact: My body is surviving on coffee. You can buy me one on [BuyMeCoffee](https://buymeacoffee.com/imsamimalik)
+- ⚡ Fun fact: My body is surviving on coffee. You can buy me one on [BuyMeACoffee](https://buymeacoffee.com/imsamimalik)
 
 <h3>How to reach me?!</h3>
 
