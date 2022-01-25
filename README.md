@@ -106,7 +106,7 @@ Here is my portfolio website:
     </td>
     <td align="center" width="96">
       <a href="#imsamimalik-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+        <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
@@ -171,7 +171,7 @@ Here is my portfolio website:
    <tr>
     <td align="center" width="96">
       <a href="#imsamimalik-tech">
-        <img src="https://camo.githubusercontent.com/b62b5802387be74d1cc236c878093a24ddd7de8aee0818cabcc4f7ef231cbb74/68747470733a2f2f7461696c77696e646373732e636f6d2f5f6e6578742f7374617469632f6d656469612f7461696c77696e646373732d6d61726b2e63623830343663313633663737313930343036646662663464656338393834382e737667" width="48" height="48" alt="TailWind" />
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
     </td>
@@ -235,6 +235,18 @@ Here is my portfolio website:
 <img align="right" style="width: 365px;transform: translateY(-13px);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsamimalik&layout=compact" alt="sami-malik" /></span>
 
 ![Gihub stas](https://activity-graph.herokuapp.com/graph?username=imsamimalik&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
+
+### ✍️ Dev Quote
+<p align="center">
+	<br>
+	<br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />  
+	<br>
+	<br>
+</p>
+
+
+
 
 ## Web Performance Stats
 
