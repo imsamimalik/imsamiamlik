@@ -1,7 +1,7 @@
 
 <img align="center" width="900" height="50" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23FFC107&size=35&center=true&vCenter=true&lines=imsamimalik" />
 
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
 <h3>Glad to see you here!</h3>  
 
@@ -69,7 +69,7 @@ Here is my portfolio website:
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#suhailakar-tech">
+      <a href="#imsamimalik-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
@@ -93,7 +93,7 @@ Here is my portfolio website:
       <br>Next JS
     </td>
 	<td align="center" width="96">
-      <a href="#suhailakar-tech">
+      <a href="#imsamimalik-tech">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>Material UI
@@ -235,15 +235,6 @@ Here is my portfolio website:
 <img align="right" style="width: 365px;transform: translateY(-13px);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsamimalik&layout=compact" alt="sami-malik" /></span>
 
 ![Gihub stas](https://activity-graph.herokuapp.com/graph?username=imsamimalik&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
-
-### ✍️ Dev Quote
-<p align="center">
-	<br>
-	<br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />  
-	<br>
-	<br>
-</p>
 
 
 
