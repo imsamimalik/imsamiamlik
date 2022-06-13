@@ -42,7 +42,7 @@ Here is my portfolio website:
     📕 Blogs and Articles
 </h3>
 
-- Check out my blogs on [Hashnode](https://imsamimalik.me/)
+- Check out my blogs on [Hashnode](https://imsamimalik.hashnode.dev/)
 
 
 \
